@@ -1,0 +1,7 @@
+struct aireplane{
+    long aireplaneID; //@key
+    long x;
+    long y;
+    long z;
+};
+
